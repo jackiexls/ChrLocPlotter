@@ -8,5 +8,6 @@ This program receives three arguments, including two input files and the prefix 
 
 # example
 $ cd example
+
 $ bash testChrLocPlotter.sh
 
